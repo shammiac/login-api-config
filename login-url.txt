@@ -1,1 +1,1 @@
-https://zatca.dinesyspos.com/loginapi/checklogin
+http://localhost:5031/loginapi/checklogin
