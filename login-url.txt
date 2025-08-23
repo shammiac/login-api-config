@@ -1,1 +1,2 @@
-https://zatca.dinesyspos.com/loginapi/checklogin
+https://zatca.dinesyspos.com/loginapi/
+
